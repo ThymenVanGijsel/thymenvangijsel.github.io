@@ -68,6 +68,7 @@ p {
     width: 100vw;
     height: 35px;
     background-color: rgb(27, 27, 27);
+    color: white;
     top: 0;
     left: 0;
     position: fixed;
@@ -89,5 +90,9 @@ p {
 }
 
 .link:visited {
+    color: white;
+}
+
+.link:default{
     color: white;
 }
